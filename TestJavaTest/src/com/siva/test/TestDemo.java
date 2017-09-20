@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class TestDemo {
 	
 	public int returnInt(int i){
-		System.out.println("Rayapreddy.Siva");
+		System.out.println("Rayapreddy.siva");
 		return i;
 	}
 	
